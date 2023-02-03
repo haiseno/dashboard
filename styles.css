@@ -58,6 +58,8 @@ img {
 .header {
     font-weight: bold;
     padding: 20px;
+    position: relative;
+    box-shadow: 1px 4px 5px 0px #9ca3af;
 }
 
 .header-top {
@@ -171,6 +173,7 @@ input:focus {
     background-color: white;
     border-left: 10px inset #f59e0b;
     padding: 15px;
+    box-shadow: 4px 5px 5px 0px #9ca3af;
 }
 
 .body-side-top {
@@ -186,6 +189,7 @@ input:focus {
     display: grid;
     gap: 2rem;
     padding: 20px;
+    box-shadow: 4px 5px 5px 0px #9ca3af;
 }
 
 h4 {
@@ -205,6 +209,7 @@ h4 {
     background-color: white;
     padding: 20px;
     gap: 2rem;
+    box-shadow: 4px 5px 5px 0px #9ca3af;
 }
 
 .trend-container {
